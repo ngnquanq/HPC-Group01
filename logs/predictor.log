@@ -1,0 +1,13 @@
+2024-05-26 11:47:32,094 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 12:23:44,669 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 12:27:02,735 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 12:28:25,404 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 12:29:02,213 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 12:29:42,325 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 12:34:44,608 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-05-26 12:34:44,608 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Predicted Prob: 0.968709 -  Predicted ID: 1 -  Predicted Class: Dog
+2024-05-26 14:10:16,800 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Starting Model Serving
+2024-05-26 14:10:51,532 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-05-26 14:10:51,533 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Predicted Prob: 0.968709 -  Predicted ID: 1 -  Predicted Class: Dog
+2024-05-26 14:10:54,010 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-05-26 14:10:54,012 - C:\Users\84898\Desktop\Image Classification\models\catdog_predictor.py - INFO - Predicted Prob: 0.968709 -  Predicted ID: 1 -  Predicted Class: Dog
