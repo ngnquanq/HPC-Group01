@@ -1,14 +1,6 @@
 # Giới thiệu 
 
-Repository này là đồ án môn học Tính Toán Hiệu Suất Cao, **mã học phần: INF50907701**
-
-Các thành viên bao gồm:
-- Nguyễn Nhật Quang
-- Lê Minh Triều
-- Thái Bảo An
-- Vương Chí Bình
-- Lê Ngọc Anh Hùng
-
+Repository này là đồ án môn học Tính Toán Hiệu Suất Cao, **mã học phần: INF50907701**.
 Trong khuôn khổ đồ án, nhóm xây dựng **hệ thống phân loại ảnh** đơn giản với Docker và các framework khác trong Python để hỗ trợ (PyTorch, FastAPI,v.v...)
 
 # Cách chạy
